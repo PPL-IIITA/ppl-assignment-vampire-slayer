@@ -1,7 +1,7 @@
 # PPL Assignment
 PPL Assignment by Vishal Sah (RIT2015007)
 ## Documentation
-Documentation is generated using Doxygen (http://www.stack.nl/~dimitri/doxygen/).
+Documentation has been generated using Doxygen (http://www.stack.nl/~dimitri/doxygen/).
 
 It can be accessed from the 'index.html' file in the Documentation folder.
 ## Tested on
