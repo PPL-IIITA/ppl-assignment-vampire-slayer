@@ -5,7 +5,7 @@ Documentation has been generated using Doxygen (http://www.stack.nl/~dimitri/dox
 
 It can be accessed from the 'index.html' file in the Documentation folder.
 ## Tested on
-Ubuntu Gnome 16.10 (g++ 5.1)
+Ubuntu Gnome 16.10 (64-bit version) using g++ 5.1 compiler.
 ## Running the project
 ### Getting random input in csv files
 Navigate to the project folder and run the following commands:
