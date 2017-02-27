@@ -9,10 +9,7 @@ bool cmp_compatibility(girl *a, girl *b) {
 }
 
 void process_data::Allocate_Boyfriends(std::vector <girl *> &Girl, std::vector <boy *> &Boy) {
-  std::ofstream out;
-  out.open("Gifting.log", std::ios::out);
-  std::cout << "Creating log file \'Gifting.log\', please wait.\n";
-  out.close();
+  std::cout << "Updating log file \'Gifting.log\', please wait.\n";
   for (int i = 0; i < Girl.size(); i++) {
     Girl[i]->Allocate_Boyfriend(Boy);
   }
