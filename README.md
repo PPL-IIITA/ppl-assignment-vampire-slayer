@@ -4,6 +4,8 @@ PPL Assignment by Vishal Sah (RIT2015007)
 Documentation has been generated using Doxygen (http://www.stack.nl/~dimitri/doxygen/).
 
 It can be accessed from the 'index.html' file in the Documentation folder.
+
+Class diagrams can be accessed from the 'ClassDiagram.png' file in each folder.
 ## Tested on
 Ubuntu Gnome 16.10 (64-bit version) using g++ 5.1 compiler.
 ## Running the project
