@@ -1,0 +1,78 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=PPL Assignment - RIT2015007
+
+[WINDOWS]
+main="PPL Assignment - RIT2015007","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+boy_8h_source.html
+common__header_8h_source.html
+gift_8h_source.html
+girl_8h_source.html
+luxury__gift_8h_source.html
+parse__csv_8h_source.html
+process__data_8h_source.html
+utility__gift_8h_source.html
+q1_8cpp.html
+q2_8cpp.html
+boy_8cpp.html
+boy_8h.html
+common__header_8h.html
+gift_8cpp.html
+gift_8h.html
+girl_8cpp.html
+girl_8h.html
+luxury__gift_8cpp.html
+luxury__gift_8h.html
+parse__csv_8cpp.html
+parse__csv_8h.html
+process__data_8cpp.html
+process__data_8h.html
+utility__gift_8cpp.html
+utility__gift_8h.html
+test__generator_8cpp.html
+classboy.html
+classboy-members.html
+classgift.html
+classgift-members.html
+classgirl.html
+classgirl-members.html
+classluxury__gift.html
+classluxury__gift-members.html
+classparse__csv.html
+classparse__csv-members.html
+classprocess__data.html
+classprocess__data-members.html
+classutility__gift.html
+classutility__gift-members.html
+dir_b8e80676f92de9d29b6409b01ee7ce34.html
+dir_eee1e4fb353c0ad65620fdf4dada9684.html
+index.html
+annotated.html
+classes.html
+functions.html
+functions_func.html
+files.html
+globals.html
+globals_func.html
+globals_vars.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png
