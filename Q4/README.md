@@ -12,7 +12,7 @@ Navigate to the project folder and run the following commands:
 ### Fourth question
 Navigate to the project folder and run the following commands:
 
-`g++ q1.cpp src/utility_gift.cpp src/luxury_gift.cpp src/gift.cpp src/boy.cpp src/parse_csv.cpp src/process_data.cpp`
+`g++ q4.cpp src/utility_gift.cpp src/luxury_gift.cpp src/gift.cpp src/boy.cpp src/parse_csv.cpp src/process_data.cpp`
 
 `./a.out`
 
