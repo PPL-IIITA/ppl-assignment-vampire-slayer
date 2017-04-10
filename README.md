@@ -25,6 +25,36 @@ Navigate to the project folder and run the following commands:
 `g++ q2.cpp src/utility_gift.cpp src/luxury_gift.cpp src/gift.cpp src/boy.cpp src/parse_csv.cpp src/process_data.cpp`
 
 `./a.out`
+### Third question
+Navigate to the project folder and run the following commands:
 
-(Logs are stored in 'Gifting.log')
+`g++ q3.cpp src/utility_gift.cpp src/luxury_gift.cpp src/gift.cpp src/boy.cpp src/parse_csv.cpp src/process_data.cpp`
+
+`./a.out`
+### Fourth question
+Navigate to the project folder and run the following commands:
+
+`g++ q4.cpp src/utility_gift.cpp src/luxury_gift.cpp src/gift.cpp src/boy.cpp src/parse_csv.cpp src/process_data.cpp`
+
+`./a.out`
+### Fifth question
+Navigate to the project folder and run the following commands:
+
+`g++ q5.cpp src/utility_gift.cpp src/luxury_gift.cpp src/gift.cpp src/boy.cpp src/parse_csv.cpp src/process_data.cpp`
+
+`./a.out`
+### Sixth question
+Navigate to the project folder and run the following commands:
+
+`g++ q6.cpp src/utility_gift.cpp src/luxury_gift.cpp src/gift.cpp src/boy.cpp src/parse_csv.cpp src/process_data.cpp`
+
+`./a.out`
+### Seventh question
+Navigate to the project folder and run the following commands:
+
+`g++ q7.cpp src/utility_gift.cpp src/luxury_gift.cpp src/gift.cpp src/boy.cpp src/parse_csv.cpp src/process_data.cpp`
+
+`./a.out`
+
+(Logs are stored in 'Gifting.log' for questions 1, 2 and 3. For question 4 onwards, logs are stored in 'Logfile.log')
 
