@@ -17,4 +17,4 @@ Navigate to the project folder and run the following commands:
 `./a.out`
 
 
-(Logs are stored in 'Logfile.log')
+(Logs are stored in 'Gifting.log')
